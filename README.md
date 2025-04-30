@@ -13,6 +13,12 @@ This is a RESTful API built with Django and Django REST Framework for managing c
 - PostgreSQL database support
 - File uploads for delivery proof
 
+##🌐 Live Demo
+
+You can try out the API here:
+
+🔗 [Swagger API Documentation](https://anageguchadze.pythonanywhere.com/swagger/)
+
 ## 📂 Project Structure
 
 courierAPI/ ├── courierAPI/ ├── deliveries/ ├── manage.py ├── .env
